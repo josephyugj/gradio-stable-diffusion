@@ -1,5 +1,5 @@
 
-這是一份為您上傳的 Jupyter Notebook 程式碼（結合 Gradio 與 Stable Diffusion v1-4 的影像生成應用）所撰寫的專案 README 說明。您可以直接將此內容放入您 GitHub 專案或 Colab 筆記本的說明欄中：
+
 
 🚀 Gradio × Stable Diffusion V1.4 影像生成互動系統
 本專案提供了一個輕量、直觀且即時的網頁互動介面（WebUI），讓使用者輸入文字提示詞（Prompt）後，即可透過預訓練的大型擴散模型 Stable Diffusion v1-4 自動生成相對應的高品質影像。本系統整合了 Hugging Face 的 diffusers 庫與 Gradio 框架，非常適合用於生成式 AI 教學、快速原型開發與影像生成實驗。
